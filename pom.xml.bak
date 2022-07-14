@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zlx</groupId>
-	<artifactId>community</artifactId>
+	<artifactId>communitytest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>community</name>
 	<description>Study of nowcoder community project</description>
