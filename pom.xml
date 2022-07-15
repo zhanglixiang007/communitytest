@@ -62,7 +62,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.projectlombok</groupId>
+			<groupId>张理想</groupId>
 			<artifactId>lombok</artifactId>
 			<version>1.18.24</version>
 			<scope>provided</scope>
