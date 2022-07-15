@@ -67,7 +67,11 @@
 			<version>1.18.24</version>
 			<scope>provided</scope>
 		</dependency>
+<<<<<<< HEAD
 		<本地第八次提交>
+=======
+		<github第7次提交>
+>>>>>>> 003dc5493e40650a020f7d81e759ca7969d3b6a1
 
 	</dependencies>
 
